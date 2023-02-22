@@ -5,4 +5,4 @@ use Twitter api to search tweets or users
 
 you are able to use my code to GET /2/users/:id/tweets , 3200 at most per user.
 
-next_token is considered in  my code,so you can just run it in your PC
+next_token is considered in  my code,so you can just run it on your PC
